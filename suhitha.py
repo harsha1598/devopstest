@@ -1,6 +1,6 @@
 print("hello ")
 print("test12 ")
-print("welcome ")
+print("horse ")
 print("suhitha ")
 print("hi ")
 for i in range(10):
