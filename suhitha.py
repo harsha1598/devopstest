@@ -1,7 +1,7 @@
 print("hello ")
 print("test12 ")
 print("welcome ")
-print("harsha ")
+print("suhitha ")
 print("hi ")
 for i in range(10):
     print(i)
